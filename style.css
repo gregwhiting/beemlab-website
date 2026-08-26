@@ -139,7 +139,8 @@ nav.primary a.active {
   .nav-row { flex-wrap: wrap; gap: 12px; padding: 16px 20px; }
   nav.primary ul { gap: 18px; flex-wrap: wrap; }
   .wrap { padding: 0 20px; }
-  .brand-cu-logo { height: 22px; }
+  .brand-logo-svg { height: 23px; }
+  .brand-cu-logo { height: 23px; }
 }
 
 /* ---------- Hero ---------- */
