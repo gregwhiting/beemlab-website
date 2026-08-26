@@ -82,6 +82,13 @@ a:hover { text-decoration: underline; }
   flex-shrink: 0;
 }
 
+.brand-cu-logo {
+  height: 26px;
+  width: auto;
+  display: block;
+  flex-shrink: 0;
+}
+
 .brand-text {
   display: flex;
   flex-direction: column;
