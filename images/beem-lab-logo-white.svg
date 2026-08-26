@@ -3,7 +3,7 @@
   <g transform="translate(0,-50.0000) scale(13.185480) translate(10.8631,-1111.8280)">
     <path d="M -10.8631,1119.1023 L -6.9096,1119.0243 L -6.4561,1117.1325 L -5.2300,1117.1085 L -2.5892,1112.9444 L 1.6762,1115.2544 L -1.0897,1118.9728 L -0.5606,1119.2594 L 1.9701,1118.3852 L 1.9701,1117.1136 L 3.8242,1116.7033 L 4.4929,1114.0386 L 11.0912,1119.4121 L 8.2223,1114.8656 L 7.5175,1115.6200 L 5.0060,1112.3640 L 2.1471,1114.2997 L -0.8806,1111.9769 L -1.1791,1112.4476 L -2.8561,1111.8280 L -3.9096,1113.4063 L -5.2300,1112.7313 L -8.2464,1116.8708 L -9.3483,1117.1085 L -10.8631,1119.1023 Z" fill="#ffffff" stroke="none"/>
   </g>
-  <text x="318.43" y="0" dominant-baseline="central" font-family='"Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif' font-size="118" letter-spacing="0.03em" fill="#ffffff">
+  <text x="318.43" y="41" font-family='"Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif' font-size="118" letter-spacing="0.03em" fill="#ffffff">
     <tspan font-weight="700">BEEM</tspan><tspan font-weight="400" dx="0.02em"> LAB</tspan>
   </text>
 </svg>
