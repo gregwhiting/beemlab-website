@@ -445,6 +445,14 @@ ol.pub-list li em { color: var(--ink); }
   border-top: 1px solid var(--line);
 }
 
+.past-photos-note {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--charcoal);
+  margin: 16px 0 0;
+}
+.past-photos-note a { margin: 0 4px; }
+
 .people-group { padding: 40px 0; border-top: 1px solid var(--line); }
 .people-group:first-of-type { border-top: none; }
 
